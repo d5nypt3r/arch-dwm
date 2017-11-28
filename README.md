@@ -1,2 +1,2 @@
-# arch-dwm-apps
-Installation of Arch Linux + i3wm + apps + dotfiles + rice-config
+# arch-server+dwm
+Installation of Arch Linux Server + dwm + apps + dotfiles + rice-config
